@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![octocat-1696776727430](https://github.com/AlejandroZaragoza1/AlejandroZaragoza1/assets/146006137/98101518-82a7-4518-91c8-5c8fde35a6f9)
+Estudiante de primero de técnico superior de desarrollo de aplicaciones web (DAW)
+IES Luis Vives
